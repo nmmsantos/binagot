@@ -1,0 +1,16 @@
+assets:
+  - name: BUSD
+    buckets: 30
+    ammount: 1000
+  - name: BNB
+    buckets: 0
+    ammount: 0
+  - name: BTC
+    buckets: 0
+    ammount: 0
+  - name: DOGE
+    buckets: 0
+    ammount: 0
+  - name: ETH
+    buckets: 0
+    ammount: 0
